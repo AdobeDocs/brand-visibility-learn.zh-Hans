@@ -19,4 +19,4 @@ ht-degree: 3%
 
 测试 — 
 
->[!VIDEO](https://video.tv.adobe.com/v/3502249/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502257/?captions=chi_hans&quality=12&learn=on){transcript=true}

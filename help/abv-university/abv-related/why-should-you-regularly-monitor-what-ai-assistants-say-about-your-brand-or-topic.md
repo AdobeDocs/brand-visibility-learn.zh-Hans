@@ -34,4 +34,4 @@ ht-degree: 0%
 * 第三方信息不正确会如何造成客户体验不佳
 * 为什么每周监控是一种实际的节奏，每天都有
 
->[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502821/?captions=chi_hans&learn=on){transcript=true}

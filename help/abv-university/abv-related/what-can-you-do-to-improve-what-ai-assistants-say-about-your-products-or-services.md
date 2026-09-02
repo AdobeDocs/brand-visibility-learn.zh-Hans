@@ -34,4 +34,4 @@ ht-degree: 0%
 * 如何让爬虫轻松访问和理解内容
 * Adobe Brand Visibility如何显示要协调的第三方引文
 
->[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502857/?captions=chi_hans&learn=on){transcript=true}

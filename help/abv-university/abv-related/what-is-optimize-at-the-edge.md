@@ -34,4 +34,4 @@ Edge中的优化位于您的CDN中，可向AI机器人提供页面的预呈现�
 * 预呈现的HTML如何仅向AI机器人而不是用户提供
 * 插入式摘要和目录如何帮助机器人理解页面
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502794/?captions=chi_hans&learn=on){transcript=true}

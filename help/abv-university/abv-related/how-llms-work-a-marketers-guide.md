@@ -33,4 +33,4 @@ ht-degree: 0%
 * 检索(RAG)如何在实时源中确定答案并生成引用
 * 为什么发现的货币从点击转向引证，以及获得引证的五个杠杆
 
->[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502893/?captions=chi_hans&learn=on){transcript=true}

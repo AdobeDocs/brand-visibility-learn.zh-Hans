@@ -34,4 +34,4 @@ LLM将单个提示添加到许多较小的查询中，并引用在所有查询�
 * 为什么一致的覆盖范围超过单个第一名排名
 * 为什么深层主题内容和强大的SEO仍会推动引用量
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502830/?captions=chi_hans&learn=on){transcript=true}

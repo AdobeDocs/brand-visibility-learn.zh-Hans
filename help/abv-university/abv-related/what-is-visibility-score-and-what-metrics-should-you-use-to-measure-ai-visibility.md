@@ -34,4 +34,4 @@ ht-degree: 0%
 * 为什么得分是一个很难单独行动的北星
 * 要与其配对的量度，从提及次数和引文到代理和引荐流量
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502914/?captions=chi_hans&learn=on){transcript=true}

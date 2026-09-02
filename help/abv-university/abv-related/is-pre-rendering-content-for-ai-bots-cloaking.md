@@ -34,4 +34,4 @@ ht-degree: 0%
 * 为什么使内容更易于阅读不是操纵
 * 为什么在CDN内运行会使得此流程成为自然的低风险流程
 
->[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502812/?captions=chi_hans&learn=on){transcript=true}

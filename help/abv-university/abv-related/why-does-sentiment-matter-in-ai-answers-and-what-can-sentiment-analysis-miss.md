@@ -34,4 +34,4 @@ ht-degree: 0%
 * 为什么同一个提示会在用户和不同日期返回不同的提示音
 * Adobe Brand Visibility如何跟踪一段时间内和每次提示的情绪
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502884/?captions=chi_hans&learn=on){transcript=true}

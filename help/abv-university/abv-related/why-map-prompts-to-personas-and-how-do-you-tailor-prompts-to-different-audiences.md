@@ -34,4 +34,4 @@ ht-degree: 0%
 * 如何按角色（如决策者或学生）对主题进行聚类
 * 为什么在整个受众中平均显示度会隐藏您的真实立场
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502803/?captions=chi_hans&learn=on){transcript=true}

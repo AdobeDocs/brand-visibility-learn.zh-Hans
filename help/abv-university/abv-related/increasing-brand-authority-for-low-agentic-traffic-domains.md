@@ -34,4 +34,4 @@ ht-degree: 0%
 * 为什么在推送到站点外之前让您的内容准确一致
 * 非现场机会（引自情绪、维基百科、Reddit、YouTube）和传统工具（如反向链接和评论）如何构建权威
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502785/?captions=chi_hans&learn=on){transcript=true}

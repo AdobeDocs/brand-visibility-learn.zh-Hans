@@ -33,4 +33,4 @@ GEO测量比较困难，因为AI具有不确定性，并且会随着地区、回
 * 为什么同样是常用词的品牌名称很难检测到
 * 为什么测量是一项不断改进的功能，会不断改进
 
->[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502871/?captions=chi_hans&learn=on){transcript=true}

@@ -34,4 +34,4 @@ ht-degree: 0%
 * 最近有什么变化，包括GoogleBot正在读取文件
 * 为什么创建保险是劳力保险，而不是引用保证
 
->[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502902/?captions=chi_hans&learn=on){transcript=true}

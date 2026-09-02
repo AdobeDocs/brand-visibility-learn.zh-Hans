@@ -34,4 +34,4 @@ ht-degree: 0%
 * 检索(RAG)是如何产生真实引文的
 * 为什么引用是表明你的品牌被用作证据的更强烈的信号
 
->[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502848/?captions=chi_hans&learn=on){transcript=true}

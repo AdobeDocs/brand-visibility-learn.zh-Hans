@@ -34,4 +34,4 @@ Adobe数据显示，ChatGPT的引荐流量上升了约60%。 此视频解释了C
 * 这意味着ChatGPT再次成为流量渠道，而不仅仅是品牌渠道
 * URL检查器中的新引荐流量功能如何显示此内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502920/?captions=chi_hans&learn=on){transcript=true}

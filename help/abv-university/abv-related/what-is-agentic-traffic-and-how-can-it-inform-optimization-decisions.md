@@ -34,4 +34,4 @@ ht-degree: 0%
 * 内容可见性单词数如何显示AI实际看到的内容
 * 为什么代理需要清晰的页面结构，尤其是对于表单和交互
 
->[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502776/?captions=chi_hans&learn=on){transcript=true}

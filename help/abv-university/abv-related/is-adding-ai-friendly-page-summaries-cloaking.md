@@ -34,4 +34,4 @@ ht-degree: 0%
 * 边缘优化当前如何仅提供AI机器人，而不提供搜索爬虫
 * 如何从该CDN以秒为单位回滚任何优化
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502875/?captions=chi_hans&learn=on){transcript=true}

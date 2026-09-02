@@ -33,4 +33,4 @@ ht-degree: 0%
 * 为什么有些引文会产生幻觉，可能会导致404次
 * 如何从模型生成的文本中区分实际检索到的源
 
->[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502839/?captions=chi_hans&learn=on){transcript=true}

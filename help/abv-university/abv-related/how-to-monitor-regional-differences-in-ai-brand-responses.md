@@ -34,4 +34,4 @@ AI助手会根据他们认为的用户所在位置做出不同的回答。 本�
 * 为什么将位置写入提示本身最符合实际用户行为
 * 哪项提示开始使用，以及该方法如何跨行业应用
 
->[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502760/?captions=chi_hans&learn=on){transcript=true}

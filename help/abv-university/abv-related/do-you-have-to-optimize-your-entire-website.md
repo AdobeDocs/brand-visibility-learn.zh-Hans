@@ -34,4 +34,4 @@ ht-degree: 0%
 * 在何处查看您已应用并且仍打开的建议
 * 如何随时回退任何优化
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502736/?captions=chi_hans&learn=on){transcript=true}

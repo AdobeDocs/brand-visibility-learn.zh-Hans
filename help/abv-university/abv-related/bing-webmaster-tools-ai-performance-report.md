@@ -35,7 +35,7 @@ ht-degree: 0%
 * 引用数据与经典的点击数、展示次数和排名搜索性能报表有何不同
 * 为什么这对您的地域战略很重要，以及它如何补充Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502700/?captions=chi_hans&learn=on){transcript=true}
 
 >[!NOTE]
 >人工智能性能报告当前仅涵盖Bing Copilot和AI摘要中的引用。 它尚不包括ChatGPT等其他AI助理。

@@ -1,7 +1,7 @@
 ---
 user-guide-title: 品牌可见度教程
 user-guide-description: 品牌可见度教程
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -9,7 +9,7 @@ ht-degree: 0%
 ---
 
 
-# 品牌可见度教程 {#tutorials}
+# 品牌可见度大学 {#tutorials}
 
 + [概述](overview.md)
 + [Bing网站管理员工具AI性能报表](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)

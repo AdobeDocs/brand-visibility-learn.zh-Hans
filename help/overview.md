@@ -1,8 +1,10 @@
 ---
 title: Brand Visibility大学： GEO视频教程
 description: 通过Brand Visibility大学的实用价值视频，了解AI 搜索和LLM的工作原理，以及如何获得AI答案中的品牌可见度和引文。
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: 54dec47a0083c8958bc8c06471ac92ddbaa9394f
 workflow-type: tm+mt
 source-wordcount: 845

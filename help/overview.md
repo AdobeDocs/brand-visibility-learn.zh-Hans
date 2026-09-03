@@ -1,21 +1,19 @@
 ---
-title: Adobe Brand Visibility University
-description: 浏览Adobe Brand Visibility大学关于AI 搜索的工作原理以及如何在AI答案中获得品牌可见度和引文的简短实用价值视频。
+title: Brand Visibility大学： GEO视频教程
+description: 通过Brand Visibility大学的实用价值视频，了解AI 搜索和LLM的工作原理，以及如何获得AI答案中的品牌可见度和引文。
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2:
-  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2:
-  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
-source-git-commit: 7f9b032dd93d0c288aa96b93d7077d03c216a71e
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: cfcef805ff63c2b290999b01c21b1c6b3d6abe1a
 workflow-type: tm+mt
-source-wordcount: 147
-ht-degree: 3%
+source-wordcount: 153
+ht-degree: 2%
 
 ---
 
 
-# 概述
+# Adobe Brand Visibility University
 
 欢迎访问Adobe Brand Visibility大学，这是一个不断发展的实用价值短视频库，其中说明了AI 搜索和大型语言模型的工作原理，以及如何在AI答案中为您的品牌赢得可见度和引证。 按下面的主题浏览。
 

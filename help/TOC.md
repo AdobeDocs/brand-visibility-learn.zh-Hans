@@ -1,7 +1,8 @@
 ---
 user-guide-title: 品牌可见度教程
 user-guide-description: 品牌可见度教程
-source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
+nudge: edit
+source-git-commit: 367cfb84279de24e826f8e0ad3bc07e5e4c45e58
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -12,10 +13,10 @@ ht-degree: 0%
 # 品牌可见度大学 {#tutorials}
 
 + [概述](overview.md)
++ [LLM的工作原理：营销人员指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing网站管理员工具AI性能报表](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [是否必须优化整个网站？](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
 + [编写提示以获得可靠、可重复的地域分析](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-+ [LLM的工作原理：营销人员指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [如何监测AI品牌响应的地区差异](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 + [提升低代理流量域的品牌权威](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
 + [添加AI友好页面摘要是否会遮蔽？](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)

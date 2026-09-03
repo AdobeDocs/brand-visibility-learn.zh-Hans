@@ -1,9 +1,9 @@
 ---
 user-guide-title: 品牌可见度教程
 user-guide-description: 品牌可见度教程
-source-git-commit: f7dedef089456496058820b1597e5e5c1724daf1
+source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 # 品牌可见度大学 {#tutorials}
 
 + [概述](overview.md)
++ [概述（登陆卡测试）](overview-landing-cards.md)
 + [LLM的工作原理：营销人员指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing网站管理员工具AI性能报表](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [是否必须优化整个网站？](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)

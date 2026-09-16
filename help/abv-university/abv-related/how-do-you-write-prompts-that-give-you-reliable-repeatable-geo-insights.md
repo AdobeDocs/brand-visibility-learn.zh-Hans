@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Value Video
 duration: 161
 last-substantial-update: '2026-09-02T00:00:00.000Z'
-jira: KT-2250
+jira: KT-22505
 autotag-review: '2026-09-16T18:51:54.065Z'
 TQID: 'https://experienceleague.adobe.com/hWvCECVi-XvvPGL8Q85Ohx1XmN-7dI0Ken-FnAb4y6M'
 product_v2:
@@ -25,7 +25,7 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: 776712b686ae1f9c9ba3710dc7629233c559ae07
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -49,4 +49,4 @@ ht-degree: 0%
 * 为什么保留提示及其意图的版本化日志会随着时间的推移而改善它们
 * 如何在客户配置中上传提示，以及为何频繁更改会影响历史得分
 
->[!VIDEO](https://video.tv.adobe.com/v/3502750/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}

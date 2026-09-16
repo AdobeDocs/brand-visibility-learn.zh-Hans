@@ -6,15 +6,14 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 161
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02
 jira: KT-22505
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+nudge: edit2
+source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
-
 ---
-
 # 如何编写提示以向您提供可靠、可重复的地理位置洞察
 
 将您跟踪的提示视为测试案例。 本视频说明逼真、特定和可重复的提示如何在Adobe Brand Visibility中为您提供稳定、可靠的AI可见性见解。

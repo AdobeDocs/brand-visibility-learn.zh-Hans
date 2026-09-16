@@ -8,8 +8,8 @@ doc-type: Value Video
 duration: 161
 last-substantial-update: 2026-09-02
 jira: KT-22505
-nudge: edit1
-source-git-commit: 5642abb49edec6e5d5ff59199a5c669806689048
+nudge: edit2
+source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,4 +33,4 @@ ht-degree: 0%
 * 为什么保留提示及其意图的版本化日志会随着时间的推移而改善它们
 * 如何在客户配置中上传提示，以及为何频繁更改会影响历史得分
 
->[!VIDEO](https://video.tv.adobe.com/v/3502750/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}

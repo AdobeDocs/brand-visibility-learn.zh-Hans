@@ -5,15 +5,27 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 150
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22518
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+TQID: 'https://experienceleague.adobe.com/LP4G6RNjFsPBaGlwTwRXeuoqKAWv21Q2oWkMOlNrczE'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: c898dfb2-0885-42fb-b2af-b2d756752646
+    internal-label: Best practices
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
-
 ---
-
 # AI助理如何决定何时使用外部源以及什么是引文？
 
 人工智能助理或者从训练数据中应答，或者先检索实时源。 这段视频展示了他们如何做出决定，引文到底是什么，以及为什么有些引文不是真实的。
@@ -33,4 +45,4 @@ ht-degree: 0%
 * 为什么有些引文会产生幻觉，可能会导致404次
 * 如何从模型生成的文本中区分实际检索到的源
 
->[!VIDEO](https://video.tv.adobe.com/v/3502839/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}

@@ -1,17 +1,27 @@
 ---
 title: Brand Visibility大学： GEO视频教程
 description: 通过Brand Visibility大学的实用价值视频，了解AI 搜索和LLM的工作原理，以及如何获得AI答案中的品牌可见度和引文。
+TQID: 'https://experienceleague.adobe.com/VOCd3YkMjxOBDqardm3q1mMMDgVkA8MkXoozUlkF9Y8'
 product_v2:
   - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
 feature_v2:
+  - id: 2bd08bda-a7a9-5c12-8ee6-d68b9f21b84e
+    internal-label: CDN
   - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
-source-git-commit: 54dec47a0083c8958bc8c06471ac92ddbaa9394f
+    internal-label: Getting started
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
-source-wordcount: 845
+source-wordcount: '845'
 ht-degree: 3%
-
 ---
-
 
 # Adobe Brand Visibility University
 

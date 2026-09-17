@@ -17,15 +17,18 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '863'
 ht-degree: 3%
 ---
 
 # Adobe Brand Visibility University
 
 欢迎访问Adobe Brand Visibility大学，这是一个不断发展的实用价值短视频库，其中说明了AI 搜索和大型语言模型的工作原理，以及如何在AI答案中为您的品牌赢得可见度和引证。 按下面的主题浏览。
+
+>[!NOTE]
+>有关完整文档，请参阅[Adobe Brand Visibility文档](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)。
 
 ## 基础：AI 搜索的工作原理 {#foundations}
 

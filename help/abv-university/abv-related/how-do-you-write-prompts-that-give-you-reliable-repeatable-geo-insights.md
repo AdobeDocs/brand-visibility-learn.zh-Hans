@@ -25,7 +25,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: 776712b686ae1f9c9ba3710dc7629233c559ae07
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -49,4 +52,4 @@ ht-degree: 0%
 * 为什么保留提示及其意图的版本化日志会随着时间的推移而改善它们
 * 如何在客户配置中上传提示，以及为何频繁更改会影响历史得分
 
->[!VIDEO](https://video.tv.adobe.com/v/3502750/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}

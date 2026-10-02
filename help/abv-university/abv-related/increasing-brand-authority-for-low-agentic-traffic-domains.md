@@ -15,6 +15,11 @@ product_v2:
 feature_v2:
   - id: e1b649f0-0a61-46e4-9082-64d5cb2576c6
     internal-label: Opportunities
+  - id: ab7fdb62-bd53-4cfd-8c2c-169f7e47f20e
+    internal-label: Brand intelligence
+subfeature_v2:
+  - id: f718ad75-b1df-4dc1-89bf-0c3167e83b33
+    internal-label: Brand presence
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -22,7 +27,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -46,4 +54,4 @@ ht-degree: 0%
 * 为什么在推送到站点外之前让您的内容准确一致
 * 非现场机会（引自情绪、维基百科、Reddit、YouTube）和传统工具（如反向链接和评论）如何构建权威
 
->[!VIDEO](https://video.tv.adobe.com/v/3502785/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}

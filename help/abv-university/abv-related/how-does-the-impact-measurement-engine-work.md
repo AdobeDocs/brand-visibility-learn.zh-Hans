@@ -33,7 +33,7 @@ ht-degree: 0%
 * 在Opportunity Workspace中的何处查找前后报告
 * 为什么人类访客在AI看到优化页面时看不到任何更改
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504055/?captions=chi_hans&learn=on){transcript=true}
 
 >[!NOTE]
 >选择至少20个URL，以便引擎有足够的样本来准确测量影响。 影响测量现在可用于恢复内容可见度，并正扩展到所有Edge销售机会中的优化。

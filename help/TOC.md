@@ -1,13 +1,11 @@
 ---
 user-guide-title: 品牌可见度教程
 user-guide-description: 品牌可见度教程
-source-git-commit: 7f1a3c89f4fd4a1b79a81a9fd17da588b1b8f97d
+source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '193'
 ht-degree: 0%
-
 ---
-
 
 # 品牌可见度大学 {#tutorials}
 
@@ -27,6 +25,7 @@ ht-degree: 0%
   + [是否必须优化整个网站？](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
   + [LLMs.txt是否相关？](abv-university/abv-related/llmstxt-is-it-relevant-june-2026.md)
 + 测量和可见性 {#measurement}
+  + [Impact测量引擎的工作原理](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
   + [AI可见性的可见度分数和量度](abv-university/abv-related/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.md)
   + [代理流量和优化决策](abv-university/abv-related/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.md)
   + [哪些GEO还无法测量，以及其改进方式](abv-university/abv-related/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time.md)

@@ -17,10 +17,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
+source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
 workflow-type: tm+mt
-source-wordcount: '863'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 2%
 ---
 
 # Adobe Brand Visibility University
@@ -28,7 +28,23 @@ ht-degree: 3%
 欢迎访问Adobe Brand Visibility大学，这是一个不断发展的实用价值短视频库，其中说明了AI 搜索和大型语言模型的工作原理，以及如何在AI答案中为您的品牌赢得可见度和引证。 按下面的主题浏览。
 
 >[!NOTE]
->有关完整文档，请参阅[Adobe Brand Visibility文档](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility/using/home)。
+>有关完整文档，请参阅[Adobe Brand Visibility文档](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)。
+
+## 新闻和见解 {#news-and-insights}
+
+AI 搜索的最新变化以及它们对您的品牌意味着什么。
+
+::::landing-cards-container
+:::card
+![Google现在通过AI概述回答品牌名称](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
+
+Google现在通过AI概述回答品牌名称
+
+Google的AI概述现在如何回答品牌名称搜索，以及在搜索控制台和AI答案中要查看的内容。
+
+[观看](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+:::
+::::
 
 ## 基础：AI 搜索的工作原理 {#foundations}
 
@@ -157,6 +173,15 @@ LLMs.txt是否相关？
 了解要测量什么，以及如何读取显示AI是否可以看到和引用您的信号。
 
 ::::landing-cards-container
+:::card
+![影响测量引擎的工作方式](/help/assets/overview/how-does-the-impact-measurement-engine-work.png)
+
+Impact测量引擎的工作原理
+
+引擎如何在优化前后测量AI可见性，并准确报告更改了哪些内容。
+
+[观看](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
+:::
 :::card
 ![AI可见性的可见度分数和量度](/help/assets/overview/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.png)
 

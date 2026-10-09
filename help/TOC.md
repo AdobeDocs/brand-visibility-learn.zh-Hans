@@ -1,15 +1,17 @@
 ---
 user-guide-title: 品牌可见度教程
 user-guide-description: 品牌可见度教程
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '204'
 ht-degree: 0%
 ---
 
 # 品牌可见度大学 {#tutorials}
 
 + [概述](overview.md)
++ 新闻和见解 {#news-and-insights}
+  + [Google现在通过AI概述回答品牌名称](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + 基础：AI 搜索的工作原理 {#foundations}
   + [LLM的工作原理：营销人员指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
   + [编写提示以获得可靠、可重复的地域分析](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)

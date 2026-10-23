@@ -32,4 +32,4 @@ ht-degree: 0%
 * 如何添加具有两行HTML或简单链接回退的按钮
 * 如何在Google Search Console中检查资格并跟踪选择
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504841/?captions=chi_hans&learn=on){transcript=true}

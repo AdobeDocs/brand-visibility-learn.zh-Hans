@@ -33,4 +33,4 @@ ht-degree: 0%
 * 从何处开始，从只读搜索到高风险操作
 * Adobe Sites Optimizer和Adobe Brand Visibility的适用场合
 
->[!VIDEO](https://video.tv.adobe.com/v/3504833/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504850/?captions=chi_hans&learn=on){transcript=true}

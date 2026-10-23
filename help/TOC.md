@@ -1,9 +1,9 @@
 ---
 user-guide-title: 品牌可见度教程
 user-guide-description: 品牌可见度教程
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '216'
 ht-degree: 0%
 ---
 
@@ -11,6 +11,8 @@ ht-degree: 0%
 
 + [概述](overview.md)
 + 新闻和见解 {#news-and-insights}
+  + [Google首选源解释](abv-university/abv-related/what-are-google-preferred-sources.md)
+  + [WebMCP和AI代理如何使用您的站点](abv-university/abv-related/what-is-webmcp.md)
   + [Google现在通过AI概述回答品牌名称](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + 基础：AI 搜索的工作原理 {#foundations}
   + [LLM的工作原理：营销人员指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)

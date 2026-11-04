@@ -26,9 +26,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: 08becc62321c4060fc65556ea31128610ad34338
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 ---
 # “影响测量”引擎如何工作？
@@ -51,7 +51,7 @@ ht-degree: 0%
 * 在Opportunity Workspace中的何处查找前后报告
 * 为什么人类访客在AI看到优化页面时看不到任何更改
 
->[!VIDEO](https://video.tv.adobe.com/v/3504055/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
 
 >[!NOTE]
->选择至少20个URL，以便引擎有足够的样本来准确测量影响。 影响测量现在可用于恢复内容可见度，并正扩展到所有Edge销售机会中的优化。
+>选择至少20个URL，以便引擎有足够的样本来准确测量影响。 影响测量现在可用于恢复内容可见度、添加LLM友好型摘要和添加目录，并计划利用Edge销售机会进行扩展以实现更多优化。

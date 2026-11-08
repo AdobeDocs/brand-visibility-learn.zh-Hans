@@ -32,4 +32,4 @@ ht-degree: 0%
 * 如何阅读您自己的品牌AI概述并查看Google引用了哪些源
 * 为什么有关您品牌的人工智能答案与您的排名一样值得密切关注
 
->[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504221/?captions=chi_hans&learn=on){transcript=true}

@@ -33,7 +33,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -57,4 +57,4 @@ ht-degree: 0%
 * 内容可见性单词数如何显示AI实际看到的内容
 * 为什么代理需要清晰的页面结构，尤其是对于表单和交互
 
->[!VIDEO](https://video.tv.adobe.com/v/3502776/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}

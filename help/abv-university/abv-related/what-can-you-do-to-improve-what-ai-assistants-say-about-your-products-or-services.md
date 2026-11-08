@@ -28,12 +28,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 ---
-# 如何改进AI助理对您的产品或服务的评论？
+# 如何改进AI助理对您的产品或服务的评价？
 
 没有单个设置可决定您的首选AI答案。 构建AI答案的最可靠方法是改进AI所依赖的信息，从您自己的网站开始。
 
@@ -52,4 +52,4 @@ ht-degree: 0%
 * 如何让爬虫轻松访问和理解内容
 * Adobe Brand Visibility如何显示要协调的第三方引文
 
->[!VIDEO](https://video.tv.adobe.com/v/3502857/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}

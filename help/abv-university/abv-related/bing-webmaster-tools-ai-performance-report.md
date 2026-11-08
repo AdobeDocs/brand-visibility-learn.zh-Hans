@@ -32,7 +32,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -56,7 +56,7 @@ ht-degree: 0%
 * 引用数据与经典的点击数、展示次数和排名搜索性能报表有何不同
 * 为什么这对您的地域战略很重要，以及它如何补充Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502700/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
 
 >[!NOTE]
 >人工智能性能报告当前仅涵盖Bing Copilot和AI摘要中的引用。 它尚不包括ChatGPT等其他AI助理。

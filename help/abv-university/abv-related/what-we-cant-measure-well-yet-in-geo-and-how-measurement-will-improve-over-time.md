@@ -29,12 +29,12 @@ topic_v2:
     internal-label: Measurement
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 ---
-# 我们目前还不能在GEO中很好地测量的方面，以及测量将如何随着时间的推移而改进
+# 我们目前在GEO中尚无法测量的内容以及测量将如何随着时间的推移而改进
 
 GEO测量比较困难，因为AI具有不确定性，并且会随着地区、回访间隔和个性化而发生变化。 本视频介绍了目前难以衡量的指标以及指标的改进情况。
 
@@ -53,4 +53,4 @@ GEO测量比较困难，因为AI具有不确定性，并且会随着地区、回
 * 为什么同样是常用词的品牌名称很难检测到
 * 为什么测量是一项不断改进的功能，会不断改进
 
->[!VIDEO](https://video.tv.adobe.com/v/3502871/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}

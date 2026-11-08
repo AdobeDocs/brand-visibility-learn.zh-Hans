@@ -31,12 +31,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 ---
-# 为什么应定期监控AI助理对您的品牌或主题的评论？
+# 为何要定期监控AI助理对您的品牌或主题的评价？
 
 随着模型更新和网络变化，AI答案会快速变化。 此视频介绍为什么定期监控是AI如何描述您的品牌的质量保证。
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 * 第三方信息不正确会如何造成客户体验不佳
 * 为什么每周监控是一种实际的节奏，每天都有
 
->[!VIDEO](https://video.tv.adobe.com/v/3502821/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}

@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# 大型语言模型学习者如何决定要在他们的响应中包含哪些引文？
+# 大型语言模型学习者如何决定要将哪些引文纳入其回应？
 
 LLM将单个提示添加到许多较小的查询中，并引用在所有查询中表现最佳的源。 本视频将说明这对于让您的品牌被引用意味着什么。
 
@@ -54,4 +54,4 @@ LLM将单个提示添加到许多较小的查询中，并引用在所有查询�
 * 为什么一致的覆盖范围超过单个第一名排名
 * 为什么深层主题内容和强大的SEO仍会推动引用量
 
->[!VIDEO](https://video.tv.adobe.com/v/3502830/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}

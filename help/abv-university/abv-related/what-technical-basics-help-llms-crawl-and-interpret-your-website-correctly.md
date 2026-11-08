@@ -30,7 +30,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -54,4 +54,4 @@ LLM体验依赖于与搜索相同的Web基础架构：抓取、索引和渲染�
 * 为什么不一致的规范、防火墙和登录墙会限制AI访问
 * 客户端呈现如何隐藏内容，以及恢复内容可见度如何修复内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3502930/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}

@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# AI助理如何决定何时使用外部源以及什么是引文？
+# AI助手如何决定何时使用外部源以及什么是引用？
 
 人工智能助理或者从训练数据中应答，或者先检索实时源。 这段视频展示了他们如何做出决定，引文到底是什么，以及为什么有些引文不是真实的。
 

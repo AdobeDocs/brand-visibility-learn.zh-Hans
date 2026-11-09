@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 ---
-# 提升低代理流量域的品牌权威
+# 提高低代理流量域的品牌权威性
 
 品牌权威机构决定您在搜索中排名和是否在AI答案中被引用。 本视频说明如何从链接、提及次数和信誉构建基元，并在Adobe Brand Visibility中对其进行衡量，即使AI流量仍然较低也是如此。
 

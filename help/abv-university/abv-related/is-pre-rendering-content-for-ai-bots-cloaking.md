@@ -30,14 +30,14 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 ---
-# 用于AI机器人遮蔽的预渲染内容吗？
+# 预呈现内容是否会遮蔽AI机器人？
 
-不。 预渲染只是让AI代理能够查看人类看到的相同内容，并且它遵循Google为繁重客户端JavaScript提供的相同指导。
+不会。 预渲染只是让AI代理能够查看人类看到的相同内容，并且它遵循Google为繁重客户端JavaScript提供的相同指导。
 
 ## 此视频面向谁？
 

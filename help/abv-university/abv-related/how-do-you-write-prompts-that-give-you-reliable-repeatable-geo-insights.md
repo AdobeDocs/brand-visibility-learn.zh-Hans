@@ -28,12 +28,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 ---
-# 如何编写提示以向您提供可靠、可重复的地理位置洞察
+# 您如何编写提示来为您提供可靠、可重复的GEO分析
 
 将您跟踪的提示视为测试案例。 本视频说明逼真、特定和可重复的提示如何在Adobe Brand Visibility中为您提供稳定、可靠的AI可见性见解。
 

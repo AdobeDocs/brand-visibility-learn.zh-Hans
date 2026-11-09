@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 ---
-# 为什么情绪在人工智能答案中很重要？情绪分析会漏掉什么？
+# 为什么情绪在AI答案中很重要？情绪分析会漏掉什么？
 
 情绪是语言的情感方向，它决定着AI如何回答你的品牌形象。 此视频说明了它之所以重要以及情绪分析在哪些方面可能出现问题。
 

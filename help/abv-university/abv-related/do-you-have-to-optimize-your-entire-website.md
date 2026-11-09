@@ -30,14 +30,14 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
 # 是否必须优化整个网站？
 
-不需要。 使用Adobe Brand Visibility（以前称为LLM Optimizer），您可以决定优化哪些页面，并且您未选择的每个页面的外观与现在完全相同。 此视频介绍该逐页控件的工作原理。
+不会。 使用Adobe Brand Visibility（以前称为LLM Optimizer），您可以决定优化哪些页面，并且您未选择的每个页面的外观与现在完全相同。 此视频介绍该逐页控件的工作原理。
 
 ## 此视频面向谁？
 

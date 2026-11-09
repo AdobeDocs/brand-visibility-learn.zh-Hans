@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# 如何监测AI品牌响应的地区差异
+# 如何监测AI品牌响应的区域差异
 
 AI助手会根据他们认为的用户所在位置做出不同的回答。 本视频说明为什么将位置直接写入监视提示可使结果反映客户实际看到的内容。
 

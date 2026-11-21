@@ -1,9 +1,9 @@
 ---
 user-guide-title: 品牌可见度教程
 user-guide-description: 品牌可见度教程
-source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
+source-git-commit: 3af4fa67a4f8c22a9f89abf1108a3eb28d6ef871
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 
@@ -41,3 +41,5 @@ ht-degree: 0%
   + [如何监测AI品牌响应的区域差异](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
   + [为何要定期监控有关您品牌的人工智能答案](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
   + [为什么情绪在人工智能答案中很重要（及其限制）](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)
++ 品牌可见度正在执行 {#in-action}
+  + [内容新鲜度机会](abv-university/abv-related/content-freshness.md)
